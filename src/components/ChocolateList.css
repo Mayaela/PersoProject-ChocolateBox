@@ -1,0 +1,13 @@
+section.ChocolateList {
+  display: inline-block;
+  background-color: lightgrey;
+  padding: 20px;
+  height: inherit;
+}
+.list-content {
+  text-align: center
+}
+
+.list-content ul {
+  padding: 0px
+}

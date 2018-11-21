@@ -1,0 +1,11 @@
+.App {
+  border : 3px solid lightgray;
+  border-radius: 10px;
+  display: flex;
+  vertical-align: middle;
+  margin: 30px auto;
+  width: max-content;
+  justify-content: left;
+  padding: 0;
+}
+
