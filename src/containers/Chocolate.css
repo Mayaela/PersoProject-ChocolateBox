@@ -1,0 +1,13 @@
+.Chocolate {
+  display: block;
+  margin: 20px auto;
+}
+
+button.choco-btn {
+  display: block;
+  margin : 10px auto;
+  padding : 5px 8px;
+  border-radius: 15px;
+  border : 1px solid grey;
+  cursor: pointer;
+}
